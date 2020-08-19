@@ -1,0 +1,8 @@
+1. How are Node Modules and NPM Packages different?
+A node module is a JS file that is created to do certain things in your code. They can be 
+files that help you read JSON, or even just files to change the color of something. A NPM 
+package is source or way for you to file or store and use all of your node modules in one place. 
+
+2. If you create a new Node Module, how do you share that code with the community?
+If you create a new Node Module you can upload it to the website https://www.npmjs.com/
+and share it with anybody who wants to use it. 
